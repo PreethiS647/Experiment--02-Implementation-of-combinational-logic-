@@ -31,9 +31,6 @@ RegisterNumber:  212223230157
 ![image](https://github.com/PreethiS647/Experiment--02-Implementation-of-combinational-logic-/assets/147313372/9967737a-29f0-499f-9b2a-2705e69e69d6)
 
 
-## RTL
-![image](https://github.com/PreethiS647/Experiment--02-Implementation-of-combinational-logic-/assets/147313372/944753e2-02b4-4152-9a05-f8120165d692)
-
 ## Timing Diagram
 
 ![image](https://github.com/PreethiS647/Experiment--02-Implementation-of-combinational-logic-/assets/147313372/ad3f1488-e1bf-4599-831b-e783e59ca45b)
