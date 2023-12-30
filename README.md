@@ -1,3 +1,6 @@
+Developed by PREETHI S
+
+Reference number : 212223230157
 # Experiment--02-Implementation-of-combinational-logic
 Implementation of combinational logic gates
  
@@ -19,10 +22,6 @@ Program to implement the given logic function and to verify its operations in qu
 ![image](https://github.com/PreethiS647/Experiment--02-Implementation-of-combinational-logic-/assets/147313372/74284ae0-b273-44e8-b896-b2dd6fef1214)
 
 
-Developed by: PREETHI S
-
-
-RegisterNumber:  212223230157
 */
 ## RTL realization
 ![image](https://github.com/PreethiS647/Experiment--02-Implementation-of-combinational-logic-/assets/147313372/4f542203-4602-4879-8f07-a92acbbd69ca)
